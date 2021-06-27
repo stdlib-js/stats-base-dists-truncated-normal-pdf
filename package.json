@@ -19,7 +19,7 @@
     "lib": "./lib"
   },
   "scripts": {},
-  "homepage": "https://github.com/stdlib-js/stdlib",
+  "homepage": "https://stdlib.io",
   "repository": {
     "type": "git",
     "url": "git://github.com/stdlib-js/stats-base-dists-truncated-normal-pdf.git"
