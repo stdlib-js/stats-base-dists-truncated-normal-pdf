@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-truncated-normal-pdf",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Truncated normal distribution probability density function (PDF).",
   "license": "Apache-2.0",
   "author": {
