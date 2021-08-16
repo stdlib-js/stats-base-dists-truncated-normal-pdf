@@ -16,9 +16,16 @@
   "main": "./lib",
   "directories": {
     "doc": "./docs",
-    "lib": "./lib"
+    "example": "./examples",
+    "lib": "./lib",
+    "test": "./test"
   },
-  "scripts": {},
+  "types": "./docs/types",
+  "scripts": {
+    "test": "make test",
+    "test-cov": "make test-cov",
+    "examples": "make examples"
+  },
   "homepage": "https://stdlib.io",
   "repository": {
     "type": "git",
@@ -37,7 +44,12 @@
     "@stdlib/utils-constant-function": "^0.0.x",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.x"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@stdlib/random-base-randu": "^0.0.x",
+    "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
+    "istanbul": "^0.4.1",
+    "tap-spec": "5.x.x"
+  },
   "engines": {
     "node": ">=0.10.0",
     "npm": ">2.7.0"
