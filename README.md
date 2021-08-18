@@ -140,7 +140,7 @@ var i;
 
 for ( i = 0; i < 25; i++ ) {
     a = ( randu() * 80.0 ) - 40.0;
-    b = a + (randu() * 80.0);
+    b = a + ( randu() * 80.0 );
     x = ( randu() * 40.0 ) + a;
     mu = ( randu() * 20.0 ) - 10.0;
     sigma = ( randu() * 10.0 ) + 2.0;
@@ -169,6 +169,11 @@ For more information on the project, filing bug reports and feature requests, an
 [![Chat][chat-image]][chat-url]
 
 ---
+
+## License
+
+See [LICENSE][stdlib-license].
+
 
 ## Copyright
 
@@ -200,6 +205,8 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib]: https://github.com/stdlib-js/stdlib
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
+
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-base-dists-truncated-normal-pdf/main/LICENSE
 
 [cdf]: https://en.wikipedia.org/wiki/Cumulative_distribution_function
 
