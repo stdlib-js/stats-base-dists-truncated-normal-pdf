@@ -35,14 +35,14 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/constants-float64-pi": "^0.1.0",
-    "@stdlib/math-base-assert-is-nan": "^0.1.0",
+    "@stdlib/constants-float64-pi": "^0.1.1",
+    "@stdlib/math-base-assert-is-nan": "^0.1.1",
     "@stdlib/math-base-special-exp": "^0.1.0",
     "@stdlib/math-base-special-pow": "^0.1.0",
     "@stdlib/math-base-special-sqrt": "^0.1.0",
     "@stdlib/stats-base-dists-normal-cdf": "^0.1.0",
-    "@stdlib/utils-constant-function": "^0.1.0",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.0"
+    "@stdlib/utils-constant-function": "^0.1.1",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1"
   },
   "devDependencies": {
     "@stdlib/random-base-randu": "^0.1.0",
