@@ -66,13 +66,13 @@ where `Phi` and `phi` denote the [cumulative distribution function][cdf] and [de
 ## Usage
 
 ```javascript
-import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-truncated-normal-pdf@deno/mod.js';
+import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-truncated-normal-pdf@v0.2.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-truncated-normal-pdf@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-truncated-normal-pdf@v0.2.0-deno/mod.js';
 ```
 
 #### pdf( x, a, b, mu, sigma )
@@ -141,7 +141,7 @@ y = myPDF( 0.8 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-truncated-normal-pdf@deno/mod.js';
+import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-truncated-normal-pdf@v0.2.0-deno/mod.js';
 
 var sigma;
 var mu;
