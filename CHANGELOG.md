@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-25)
+## Unreleased (2025-06-22)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`b34d5c3`](https://github.com/stdlib-js/stdlib/commit/b34d5c38187e2847ee571b3daf163b6a19ecbe6d) - **docs:** update `stats/base/dists/truncated-normal` to use Greek symbols _(by Philipp Burckhardt)_
 -   [`366925e`](https://github.com/stdlib-js/stdlib/commit/366925e14f08852288d1422041d5613c1aaddb28) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 
 </details>
