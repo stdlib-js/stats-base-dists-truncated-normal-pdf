@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-23)
+## Unreleased (2025-08-20)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`4589cee`](https://github.com/stdlib-js/stdlib/commit/4589cee4e69b2a4c4a433321f413824a69eebb6e) - **docs:** fix return annotation values _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`b34d5c3`](https://github.com/stdlib-js/stdlib/commit/b34d5c38187e2847ee571b3daf163b6a19ecbe6d) - **docs:** update `stats/base/dists/truncated-normal` to use Greek symbols _(by Philipp Burckhardt)_
 -   [`366925e`](https://github.com/stdlib-js/stdlib/commit/366925e14f08852288d1422041d5613c1aaddb28) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 
