@@ -4,7 +4,39 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-27)
+## Unreleased (2026-09-02)
+
+<section class="features">
+
+### Features
+
+-   [`ad203e8`](https://github.com/stdlib-js/stdlib/commit/ad203e87386773c3466ba0d47bf350d2971ebebe) - add C implementation for `stats/base/dists/truncated-normal/pdf` [(#5056)](https://github.com/stdlib-js/stdlib/pull/5056)
+
+</section>
+
+<!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`f51d7fe`](https://github.com/stdlib-js/stdlib/commit/f51d7fed453924f3d346c8591c5542dfa9955c5d) - avoid overflow and duplicate computation [(#14446)](https://github.com/stdlib-js/stdlib/pull/14446)
+
+</section>
+
+<!-- /.bug-fixes -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3882](https://github.com/stdlib-js/stdlib/issues/3882)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +44,8 @@
 
 <details>
 
+-   [`ad203e8`](https://github.com/stdlib-js/stdlib/commit/ad203e87386773c3466ba0d47bf350d2971ebebe) - **feat:** add C implementation for `stats/base/dists/truncated-normal/pdf` [(#5056)](https://github.com/stdlib-js/stdlib/pull/5056) _(by Yuvi Mittal, Philipp Burckhardt, stdlib-bot)_
+-   [`f51d7fe`](https://github.com/stdlib-js/stdlib/commit/f51d7fed453924f3d346c8591c5542dfa9955c5d) - **fix:** avoid overflow and duplicate computation [(#14446)](https://github.com/stdlib-js/stdlib/pull/14446) _(by Philipp Burckhardt)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`2cee50a`](https://github.com/stdlib-js/stdlib/commit/2cee50a75da1437551b91682b8785dbae8ab897f) - **docs:** update Markdown equation elements [(#13547)](https://github.com/stdlib-js/stdlib/pull/13547) _(by stdlib-bot, Athan Reines)_
@@ -28,10 +62,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Philipp Burckhardt
+-   Yuvi Mittal
 
 </section>
 
