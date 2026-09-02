@@ -44,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`0c7f769`](https://github.com/stdlib-js/stdlib/commit/0c7f769c2a4eff27b9a9302eeb49c87f4c55c464) - **chore:** clean-up _(by Athan Reines)_
 -   [`ad203e8`](https://github.com/stdlib-js/stdlib/commit/ad203e87386773c3466ba0d47bf350d2971ebebe) - **feat:** add C implementation for `stats/base/dists/truncated-normal/pdf` [(#5056)](https://github.com/stdlib-js/stdlib/pull/5056) _(by Yuvi Mittal, Philipp Burckhardt, stdlib-bot)_
 -   [`f51d7fe`](https://github.com/stdlib-js/stdlib/commit/f51d7fed453924f3d346c8591c5542dfa9955c5d) - **fix:** avoid overflow and duplicate computation [(#14446)](https://github.com/stdlib-js/stdlib/pull/14446) _(by Philipp Burckhardt)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
