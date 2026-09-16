@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-02)
+## Unreleased (2026-09-16)
 
 <section class="features">
 
@@ -44,6 +44,9 @@ This release closes the following issue:
 
 <details>
 
+-   [`d3eaad3`](https://github.com/stdlib-js/stdlib/commit/d3eaad35f633c731ce8112190d74bb2a7577e1e8) - **chore:** clean-up [(#15039)](https://github.com/stdlib-js/stdlib/pull/15039) _(by Philipp Burckhardt, Athan Reines)_
+-   [`fda1b2d`](https://github.com/stdlib-js/stdlib/commit/fda1b2dcb8178238aec1f4abb2c03be218ba5800) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`74f00ef`](https://github.com/stdlib-js/stdlib/commit/74f00efcab260a0ec5acf88713bdf4499bdecf36) - **chore:** clean-up [(#14905)](https://github.com/stdlib-js/stdlib/pull/14905) _(by Philipp Burckhardt)_
 -   [`0c7f769`](https://github.com/stdlib-js/stdlib/commit/0c7f769c2a4eff27b9a9302eeb49c87f4c55c464) - **chore:** clean-up _(by Athan Reines)_
 -   [`ad203e8`](https://github.com/stdlib-js/stdlib/commit/ad203e87386773c3466ba0d47bf350d2971ebebe) - **feat:** add C implementation for `stats/base/dists/truncated-normal/pdf` [(#5056)](https://github.com/stdlib-js/stdlib/pull/5056) _(by Yuvi Mittal, Philipp Burckhardt, stdlib-bot)_
 -   [`f51d7fe`](https://github.com/stdlib-js/stdlib/commit/f51d7fed453924f3d346c8591c5542dfa9955c5d) - **fix:** avoid overflow and duplicate computation [(#14446)](https://github.com/stdlib-js/stdlib/pull/14446) _(by Philipp Burckhardt)_
