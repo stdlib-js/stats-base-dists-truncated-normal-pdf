@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-16)
+## Unreleased (2026-09-27)
 
 <section class="features">
 
@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`748a9c8`](https://github.com/stdlib-js/stdlib/commit/748a9c8ba229d8396a549febba5919fb2c920e34) - avoid overflow/underflow in C implementation of `truncated-normal/pdf` [(#15576)](https://github.com/stdlib-js/stdlib/pull/15576)
 -   [`f51d7fe`](https://github.com/stdlib-js/stdlib/commit/f51d7fed453924f3d346c8591c5542dfa9955c5d) - avoid overflow and duplicate computation [(#14446)](https://github.com/stdlib-js/stdlib/pull/14446)
 
 </section>
@@ -44,6 +45,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`748a9c8`](https://github.com/stdlib-js/stdlib/commit/748a9c8ba229d8396a549febba5919fb2c920e34) - **fix:** avoid overflow/underflow in C implementation of `truncated-normal/pdf` [(#15576)](https://github.com/stdlib-js/stdlib/pull/15576) _(by Karan Anand)_
 -   [`d3eaad3`](https://github.com/stdlib-js/stdlib/commit/d3eaad35f633c731ce8112190d74bb2a7577e1e8) - **chore:** clean-up [(#15039)](https://github.com/stdlib-js/stdlib/pull/15039) _(by Philipp Burckhardt, Athan Reines)_
 -   [`fda1b2d`](https://github.com/stdlib-js/stdlib/commit/fda1b2dcb8178238aec1f4abb2c03be218ba5800) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`74f00ef`](https://github.com/stdlib-js/stdlib/commit/74f00efcab260a0ec5acf88713bdf4499bdecf36) - **chore:** clean-up [(#14905)](https://github.com/stdlib-js/stdlib/pull/14905) _(by Philipp Burckhardt)_
@@ -66,9 +68,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Karan Anand
 -   Philipp Burckhardt
 -   Yuvi Mittal
 
